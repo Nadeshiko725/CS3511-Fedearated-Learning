@@ -1,0 +1,7 @@
+__pycache__
+client_data/*
+data/*
+models/*
+results/*
+Federated_Learning_Report.pdf
+printVER.py

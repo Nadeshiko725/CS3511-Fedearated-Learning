@@ -1,0 +1,41 @@
+│  client.py
+│  model.py
+│  README.md
+│  server.py
+│  stage12_multi.py
+│  stage3.py
+│
+├─client_data
+│      Client1.pkl
+│      Client10.pkl
+│      Client11.pkl
+│      Client12.pkl
+│      Client13.pkl
+│      Client14.pkl
+│      Client15.pkl
+│      Client16.pkl
+│      Client17.pkl
+│      Client18.pkl
+│      Client19.pkl
+│      Client2.pkl
+│      Client20.pkl
+│      Client3.pkl
+│      Client4.pkl
+│      Client5.pkl
+│      Client6.pkl
+│      Client7.pkl
+│      Client8.pkl
+│      Client9.pkl
+│      Test.pkl
+│
+└─data
+    └─MNIST
+        └─raw
+                t10k-images-idx3-ubyte
+                t10k-images-idx3-ubyte.gz
+                t10k-labels-idx1-ubyte
+                t10k-labels-idx1-ubyte.gz
+                train-images-idx3-ubyte
+                train-images-idx3-ubyte.gz
+                train-labels-idx1-ubyte
+                train-labels-idx1-ubyte.gz
